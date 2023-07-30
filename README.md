@@ -7,3 +7,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝑊𝑒𝑙𝑐𝑜𝑚𝑒+𝑇𝑜+TG-UPDATES1-Bot!)
 </p>
+
+##
+
+**If you need any more modes in repo or If you find out any bugs, mention in [@KUSHAL HK ](https://www.telegram.dog/KUSHALHK)**
