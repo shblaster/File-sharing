@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://graph.org/file/43fcca8ee2829dfa4436b.jpg" alt="Ben-filter-Bot Logo">
+  <img src="https://telegra.ph/file/bac95dc890b387969e6e5.jpg" alt="Ben-filter-Bot Logo">
 </p>
 <h1 align="center">
    𝐒𝐇 𝐅𝐈𝐋𝐄 𝐒𝐓𝐎𝐑𝐄-𝐁𝐎𝐓
