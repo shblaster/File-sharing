@@ -31,6 +31,5 @@ services:
       - key: ADMINS
         sync: false
       - key: PROTECT_CONTENT
-        sync: false
-        sync: false    
+        sync: false   
     autoDeploy: false
