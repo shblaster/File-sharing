@@ -8,20 +8,29 @@ services:
     repo: https://github.com/gangstar1010/File-sharing.git      
     branch: main
     envVars:
-      - key: BOT_TOKEN 
+      - key: TG_BOT_TOKEN 
+        sync: false
+      - key: OWNER_ID 
         sync: false
       - key: API_ID 
         sync: false
-      - key: API_HASH
-        sync: false
-      - key: ADMINS
+      - key: DATABASE_URL
         sync: false
       - key: DATABASE_NAME
         sync: false
-      - key: DATABASE_URI
-        sync: false 
-      - key: PICS
+      - key: API_HASH
         sync: false
-      - key: LOG_CHANNEL
+      - key: CHANNEL_ID
+        sync: false
+      - key: FORCE_SUB_CHANNEL
+        sync: false
+      - key: START_MESSAGE
+        sync: false
+      - key: FORCE_SUB_MESSAGE
+        sync: false
+      - key: ADMINS
+        sync: false
+      - key: PROTECT_CONTENT
+        sync: false
         sync: false    
     autoDeploy: false
